@@ -1,0 +1,15 @@
+# Config File
+config.yml
+
+# captcha
+captcha.png
+
+# IDE Files and Environment
+.idea
+__pycache__
+venv
+
+# PyInstaller
+*.spec
+build
+dist
